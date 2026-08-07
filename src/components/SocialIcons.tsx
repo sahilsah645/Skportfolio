@@ -86,7 +86,7 @@ const SocialIcons = () => {
           <TbNotes />
         </span>
       </a>
-    </div>
+    </div >
   );
 };
 
